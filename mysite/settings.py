@@ -25,7 +25,7 @@ SECRET_KEY = 'if^@2-5$glc#1djfzg1tgx3tb#783!h2ew#x_1x0x42#*159+!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<mfrandgie>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'mfrandgie.pythonanywhere.com']
 
 
 # Application definition
